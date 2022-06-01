@@ -13,7 +13,7 @@ export class AuthService {
     clientID: 'iJkI8WFYWEJSWMcqIqvIByJWNPeKxREy',
     domain: 'dev-j7-sb1nr.us.auth0.com',
     responseType: 'token',
-    redirectUri: 'http://localhost:4200/',
+    redirectUri: 'https://angular-material-tutorial-gamma.vercel.app/',
     scope: 'openid'
   });
 
